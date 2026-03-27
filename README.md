@@ -63,9 +63,9 @@ Day-03/
 
 Projects/
   ├── auth-system/
-  ├── dashboard-app/
-  └── api-project/
-  ├── HUNMAX (My Biggest Project)
+  ├── dashboard-app/ 
+  ├── api-project/
+  └── hunmax/
 
 Security/
   ├── IDOR/
