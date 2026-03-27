@@ -65,6 +65,7 @@ Projects/
   ├── auth-system/
   ├── dashboard-app/
   └── api-project/
+  ├── HUNMAX (My Biggest Project)
 
 Security/
   ├── IDOR/
